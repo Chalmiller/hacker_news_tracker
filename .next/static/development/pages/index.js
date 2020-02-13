@@ -9618,8 +9618,8 @@ var Index = function Index() {
       lineNumber: 5
     },
     __self: this
-  }, "SSR Magician"), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/about",
+  }, "Hacker News"), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/top",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 6
@@ -9631,8 +9631,8 @@ var Index = function Index() {
       lineNumber: 7
     },
     __self: this
-  }, "About")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-    href: "/robots",
+  }, "New")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/past",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 9
@@ -9644,14 +9644,79 @@ var Index = function Index() {
       lineNumber: 10
     },
     __self: this
-  }, "Robots")));
+  }, "Past")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/comments",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 12
+    },
+    __self: this
+  }, __jsx("a", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 13
+    },
+    __self: this
+  }, "Comments")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/ask",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 15
+    },
+    __self: this
+  }, __jsx("a", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 16
+    },
+    __self: this
+  }, "Ask")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/show",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 18
+    },
+    __self: this
+  }, __jsx("a", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 19
+    },
+    __self: this
+  }, "Show")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/jobs",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 21
+    },
+    __self: this
+  }, __jsx("a", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 22
+    },
+    __self: this
+  }, "Jobs")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+    href: "/submit",
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 24
+    },
+    __self: this
+  }, __jsx("a", {
+    __source: {
+      fileName: _jsxFileName,
+      lineNumber: 25
+    },
+    __self: this
+  }, "Submit")));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
 
 /***/ }),
 
-/***/ 3:
+/***/ 1:
 /*!*************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2FUsers%2FChris%2Fsrc%2FReactProjects%2Fnext-ssr%2Fpages%2Findex.js ***!
   \*************************************************************************************************************************************/
@@ -9674,5 +9739,5 @@ module.exports = dll_ef0ff7c60362f24a921f;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]);
+},[[1,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map

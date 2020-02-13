@@ -88,7 +88,7 @@ module.exports =
 /******/
 /******/
 /******/ 	// Load entry module and return exports
-/******/ 	return __webpack_require__(__webpack_require__.s = 5);
+/******/ 	return __webpack_require__(__webpack_require__.s = 3);
 /******/ })
 /************************************************************************/
 /******/ ({
@@ -1794,8 +1794,8 @@ const Index = () => __jsx("div", {
     lineNumber: 5
   },
   __self: undefined
-}, "SSR Magician"), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-  href: "/about",
+}, "Hacker News"), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+  href: "/top",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 6
@@ -1807,8 +1807,8 @@ const Index = () => __jsx("div", {
     lineNumber: 7
   },
   __self: undefined
-}, "About")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
-  href: "/robots",
+}, "New")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+  href: "/past",
   __source: {
     fileName: _jsxFileName,
     lineNumber: 9
@@ -1820,13 +1820,78 @@ const Index = () => __jsx("div", {
     lineNumber: 10
   },
   __self: undefined
-}, "Robots")));
+}, "Past")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+  href: "/comments",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 12
+  },
+  __self: undefined
+}, __jsx("a", {
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 13
+  },
+  __self: undefined
+}, "Comments")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+  href: "/ask",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 15
+  },
+  __self: undefined
+}, __jsx("a", {
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 16
+  },
+  __self: undefined
+}, "Ask")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+  href: "/show",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 18
+  },
+  __self: undefined
+}, __jsx("a", {
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 19
+  },
+  __self: undefined
+}, "Show")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+  href: "/jobs",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 21
+  },
+  __self: undefined
+}, __jsx("a", {
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 22
+  },
+  __self: undefined
+}, "Jobs")), __jsx(next_link__WEBPACK_IMPORTED_MODULE_1___default.a, {
+  href: "/submit",
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 24
+  },
+  __self: undefined
+}, __jsx("a", {
+  __source: {
+    fileName: _jsxFileName,
+    lineNumber: 25
+  },
+  __self: undefined
+}, "Submit")));
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
 
 /***/ }),
 
-/***/ 5:
+/***/ 3:
 /*!******************************!*\
   !*** multi ./pages/index.js ***!
   \******************************/
